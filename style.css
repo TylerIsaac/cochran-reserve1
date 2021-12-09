@@ -14,7 +14,7 @@
 }
 
 .img-container {
-  padding-top: 35px;
+  padding-top: 10px;
   max-width: fit-content;
   width: 325px;
 }
@@ -23,6 +23,7 @@
   margin-top: 25px;
   font-size: 24px;
   font-family: "Gotham Black", sans-serif;
+  font-weight: 900;
   text-align: center;
 }
 
@@ -56,7 +57,8 @@
   background-color: #eb1c2c;
   color: white;
   text-align: center;
-  font-family: "Gotham Black";
+  font-family: "Gotham Black", sans-serif;
+  font-weight: bold;
   padding: 10px 0;
   font-size: 16px;
 }
@@ -86,12 +88,14 @@
   font-family: "Gotham Black", sans-serif;
   margin-bottom: 1%;
   font-size: 15px;
+  font-weight: bold;
 }
 
 .row-two {
   font-family: "Gotham Black", sans-serif;
   margin-bottom: 1%;
   font-size: 15px;
+  font-weight: bold;
 }
 
 .row-three {
@@ -109,6 +113,7 @@
   font-family: "Gotham Black", sans-serif;
   margin-bottom: 1.5%;
   font-size: 15px;
+  font-weight: bold;
 }
 
 .btn1 {
@@ -138,6 +143,7 @@
   font-family: "Gotham Black", sans-serif;
   margin-bottom: 3%;
   font-size: 15px;
+  font-weight: bold;
 }
 
 @media only screen and (min-width: 480px) {
@@ -184,23 +190,23 @@
   }
 
   .step {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   .row-two {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   .row-three {
-    font-size: 13px;
+    font-size: 15px;
   }
 
   .how-easy {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   .question {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   .disc {
@@ -230,7 +236,7 @@
   }
 
   .info-main {
-    font-size: 15px;
+    font-size: 16px;
   }
 }
 
